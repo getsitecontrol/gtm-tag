@@ -1,5 +1,5 @@
 homepage: "https://getsitecontrol.com"
 documentation: "https://github.com/getsitecontrol/gtm-tag"
 versions:
-  - sha: 5fd984a55d57a48266fedbb9343bfc8592269cd8
+  - sha: 0745314ca4f21725fa6b34503ec53843a6e5470b
     changeNotes: Initial release.
