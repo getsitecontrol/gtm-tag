@@ -1,5 +1,7 @@
 homepage: "https://getsitecontrol.com"
 documentation: "https://github.com/getsitecontrol/gtm-tag"
 versions:
+  - sha: a1b64723d768cfb9c215eff44be07018818636a1
+    changeNotes: Fix bug with parameters var name.
   - sha: 0745314ca4f21725fa6b34503ec53843a6e5470b
     changeNotes: Initial release.
