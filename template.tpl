@@ -124,8 +124,8 @@ if (!data.siteId) {
             gsc("settings", settings);
         }
       
-        if (data.params) {
-            gsc("params", makeTableMap(data.params, "name", "value"));
+        if (data.parameters) {
+            gsc("params", makeTableMap(data.parameters, "name", "value"));
         }      	
     }
 	
